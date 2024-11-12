@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using Microsoft.Data.Sqlite;
+using Microsoft.Data.Sqlite; // using statement for sqlite 
 using System.Collections.Generic;
 class Program
 {
