@@ -22,3 +22,9 @@ SQLite database connection
     A console based UI where users can navigate by key entry of the given menu
 
 # Main Menu:
+
+![Screenshot 2024-11-13 072848](https://github.com/user-attachments/assets/176d9061-7b0b-4857-83a4-1b2fd1648dee)
+
+# A list of all records
+
+![Screenshot 2024-11-13 073200](https://github.com/user-attachments/assets/e276b7a0-7fc3-4f28-a586-a248690dbc40)
