@@ -147,7 +147,7 @@ class Program
             // read the SQL database:
             SqliteDataReader reader = tableCmd.ExecuteReader();
 
-
+            Console.WriteLine("\t\tRecent Records:");
             if (reader.HasRows)
             {
                 while (reader.Read())

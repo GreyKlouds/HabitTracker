@@ -5,16 +5,20 @@ This is a console based CRUD application to track a habbit specified by the user
 
 # Given Requirements:
 
-    This is an application where you’ll log occurrences of a habit.
-    This habit can't be tracked by time (ex. hours of sleep), only by quantity (ex. number of water glasses a day)
+    This is an application which allowws a user to log occurrences of a habit.
     Users need to be able to input the date of the occurrence of the habit
-    The application should store and retrieve data from a real database
-    When the application starts,create a sqlite database, if one isn’t present.
-    It should also create a table in the database, where the habit will be logged.
-    The users should be able to insert, delete, update and view their logged habit.
-    Application should handle all possible errors so that the application never crashes.
-    Follow the DRY Principle, and avoid code repetition.
+    The application stores and retrieves data from a database
+    When the application starts,a sqlite database is created, if one isn’t present.
+    The users is  able to insert, delete, update and view their logged habit.
+    Application handles all possible errors so that the application never crashes.
 
 # Features:
-  The program uses a SQLite db connection to store and read information.
-  If no database exists, or the correct table does not exist they will be created on program start.
+
+SQLite database connection
+
+    The program uses a SQLite db connection to store and read information.
+    If no database exists, or the correct table does not exist they will be created on program start.
+
+    A console based UI where users can navigate by key entry of the given menu
+
+# Main Menu:
