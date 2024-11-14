@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lux\\Desktop\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj": {}
+    "C:\\Users\\Lux\\Desktop\\CodeReviews.Console.HabitTracker\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lux\\Desktop\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj": {
+    "C:\\Users\\Lux\\Desktop\\CodeReviews.Console.HabitTracker\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lux\\Desktop\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj",
+        "projectUniqueName": "C:\\Users\\Lux\\Desktop\\CodeReviews.Console.HabitTracker\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj",
         "projectName": "HabitTracker",
-        "projectPath": "C:\\Users\\Lux\\Desktop\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj",
+        "projectPath": "C:\\Users\\Lux\\Desktop\\CodeReviews.Console.HabitTracker\\HabitTracker.GreyKlouds\\HabitTracker\\HabitTracker.csproj",
         "packagesPath": "C:\\Users\\Lux\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lux\\Desktop\\HabitTracker.GreyKlouds\\HabitTracker\\obj\\",
+        "outputPath": "C:\\Users\\Lux\\Desktop\\CodeReviews.Console.HabitTracker\\HabitTracker.GreyKlouds\\HabitTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lux\\AppData\\Roaming\\NuGet\\NuGet.Config",
